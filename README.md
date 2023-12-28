@@ -1,7 +1,3 @@
-Certamente, Pedro! Aqui está um exemplo de README para o seu repositório no GitHub relacionado ao curso "Desenvolvimento Web Completo - 20 cursos + 20 projetos" da Udemy. Lembre-se de adaptar as informações conforme necessário.
-
----
-
 # Desenvolvimento Web Completo - 20 cursos + 20 projetos
 
 Bem-vindo ao repositório do curso "Desenvolvimento Web Completo - 20 cursos + 20 projetos" da Udemy! Este repositório foi criado para armazenar e compartilhar os projetos desenvolvidos ao longo do curso, bem como oferecer um recurso adicional para a comunidade de estudantes.
